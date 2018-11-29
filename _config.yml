@@ -19,7 +19,7 @@ navigation:
 
 comments:
   disqus: "disqus-contrast"
-  isso: "roverstar.disqus.com"
+#  isso: "roverstar.disqus.com"
 
 links: # see http://fontawesome.io/icons/#brand for all possible icons
   - twitter: "https://twitter.com/twitter/"
